@@ -1,0 +1,33 @@
+Body{
+    background-color: rgb(235, 191, 191);
+}
+
+header{
+    background-color: rgb(250, 200, 200);
+    padding: 10px;
+}
+
+header img{
+    width: 40px;
+    height: 40px;
+}
+
+header a {
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 15px;
+    background-color:rgb(247, 162, 162);
+}
+
+.img1 {
+    width:auto;
+    height: auto;
+    border:auto rgb(240, 174, 174);
+}
+
+.img2{
+    width: 50px;
+    height: 50px;
+    border-radius:15px;
+}
